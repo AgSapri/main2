@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<settings>
+
+  <channel update="i" site="myklik.rtm.gov.my" site_id="225##tvTV1logo-New.jpg" xmltv_id="TV1">TV1</channel>
+  <channel update="i" site="myklik.rtm.gov.my" site_id="310##tvTV2logo.jpg" xmltv_id="TV2">TV2</channel>
+	<channel update="i" site="myklik.rtm.gov.my" site_id="517##TV6-Logo-JPG.jpg" xmltv_id="TV6">TV6</channel>
+	<channel update="i" site="myklik.rtm.gov.my" site_id="311##tvTVOKEYlogo.jpg" xmltv_id="TV Okey">Okey RTM</channel>
+	<channel update="i" site="myklik.rtm.gov.my" site_id="232##tvTVPARLIMENDEWANRAKYATlogo170X96.jpg" xmltv_id="DEWAN RAKYAT">Parlimen RTM</channel>
+	<channel update="i" site="myklik.rtm.gov.my" site_id="272##Sukan_RTMmedium.jpg" xmltv_id="TV SUKAN">Sukan RTM</channel>
+	<channel update="i" site="myklik.rtm.gov.my" site_id="312##Berita-NEW.jpg" xmltv_id="BERITA RTM">Berita RTM</channel>
+
+ </settings>
