@@ -1,0 +1,19 @@
+#EXTM3U
+RTM TV 1 (TV) : https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+RTM TV 1 (Mobile) : https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+RTM TV 2 (TV) : https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+RTM TV 2 (Mobile) : https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+Berita RTM (RTM TV 3) (TV) : https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+Berita RTM (RTM TV 3) (Mobile) : https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+RTM Parlimen Dewan Rakyat (TV) : https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+RTM Parlimen Dewan Rakyat (Mobile) : https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+
+RTM Parlimen Dewan Negarah (TV) : https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
+RTM Parlimen Dewan Negarah (Mobile) : https://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+
+
+TV Okey (TV) : https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+TV Okey (Mobile) : https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
